@@ -42,6 +42,11 @@ Docker가 설치되어 있고 실행 중이어야 합니다.
 docker build -t click-test .
 ```
 
+### 3. 실행
+```python
+python3 grade.py
+```
+
 실행이 완료되면 다음 파일이 생성됩니다:
 
 ```
